@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Video & Audio Merger
+GenericName=FFmpeg Media Merger
+Comment=Merge video and audio streams with graphical interface
+Exec=/var/www/Laravel_Projects/video-audio-merger/run.sh %F
+Icon=/var/www/Laravel_Projects/video-audio-merger/assets/icon.png
+Terminal=false
+Categories=AudioVideo;Video;Audio;AudioVideoEditing;
+Keywords=ffmpeg;video;audio;merge;mux;muxer;join;
+StartupNotify=true
+MimeType=video/mp4;video/x-matroska;video/quicktime;video/webm;audio/mpeg;audio/aac;audio/flac;

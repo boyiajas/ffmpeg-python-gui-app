@@ -1,0 +1,9 @@
+# Video & Audio Merger - Dependencies
+#
+# Ubuntu System Packages (Recommended):
+#   sudo apt update
+#   sudo apt install -y ffmpeg python3-wxgtk4.0 python3-pil
+#
+# Python Pip Packages (Optional if using virtual environment):
+wxPython>=4.2.0
+Pillow>=10.0.0
