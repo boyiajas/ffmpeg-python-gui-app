@@ -2,7 +2,7 @@
 
 A complete, modern desktop GUI application designed for Ubuntu Linux that eliminates the need to remember complex `ffmpeg` terminal syntax. Easily merge, mix, replace, and sync video and audio with a clean, native interface.
 
-![Video & Audio Merger Icon](assets/icon_64.png)
+![Video & Audio Merger](assets/screenshot.png)
 
 ---
 
